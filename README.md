@@ -34,7 +34,7 @@ If you have encountered any issues please let us know - [support@qrcoded.app](ma
 
 ### Authors
 
-[GitHub.com/Lewwiss](https://github.com/lewwiss)
+[github.com/Lewwiss](https://github.com/lewwiss)
 
 ### License
 
