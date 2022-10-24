@@ -1,4 +1,4 @@
-<img src="./github/showcase.png" />
+<img src="./.github/showcase.png" />
 
 # QRCoded - Create QR Codes Instantly
 > A QR code generator created with javascript.
