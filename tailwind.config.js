@@ -12,8 +12,8 @@ module.exports = {
             fontFamily: {
                 'sans': ['Karla']
             },
-            aspectRatio: {
-                'screen': '9 / 16'
+            minHeight: {
+                "placeholder": "48rem"
             },
             width: {
                 "128": "32rem"
