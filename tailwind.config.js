@@ -6,7 +6,8 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                primary: "#011336"
+                primary: "#3800d8",
+                secondary: "#00b5d3"
             },
             fontFamily: {
                 'sans': ['Karla']
@@ -14,6 +15,9 @@ module.exports = {
             aspectRatio: {
                 'screen': '9 / 16'
             },
+            width: {
+                "128": "32rem"
+            }
         },
     },
     plugins: [],

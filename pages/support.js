@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 
 const Home = () => {
     return (
-        <div>
+        <div className="min-h-screen h-full relative overflow-hidden">
             <Head>
                 <title>QRCoded (QR Code Generator): Get Support</title>
                 <link rel="icon" href="/favicon.ico" />

@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-
 const Navigation = () => {
     const [menu, setMenu] = useState(false);
 
@@ -14,7 +13,7 @@ const Navigation = () => {
                             <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 9h16.5m-16.5 6.75h16.5" />
                         </svg>
                     </button>
-                    <a onClick={() => setMenu(!menu)} href="/#benefits" className="text-lg">Why use a QR code?</a>
+                    <a className="text-lg line-through">Why use a QR code?</a>
                     <a href="/support" className="text-lg">Get support</a>
                 </div>
             </div>
@@ -31,7 +30,7 @@ const Navigation = () => {
                     <a href="/" className="font-bold text-xl">QRCoded</a>
                 </div>
                 <div className="hidden md:flex items-center justify-end space-x-10">
-                    <a href="/#benefits" className="text-lg">Why use a QR code?</a>
+                    <a className="text-lg line-through">Why use a QR code?</a>
                     <a href="/support" className="text-lg">Get support</a>
                 </div>
                 <div className="flex md:hidden flex items-center justify-end space-x-10">

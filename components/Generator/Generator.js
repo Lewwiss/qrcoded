@@ -42,7 +42,7 @@ const Generator = () => {
     };
 
     return (
-      <div>
+      <div className="">
         { Component() }
       </div>
     );
