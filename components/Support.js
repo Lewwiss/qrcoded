@@ -2,8 +2,8 @@ import { motion } from 'framer-motion';
 
 const Support = () => {
     return (
-        <div className="mx-auto max-w-7xl flex items-center justify-center py-10 lg:pt-20 pb-44 px-10 relative">
-            <img src="/images/1.svg" className="absolute bottom-0 -right-28 w-96" />
+        <div className="mx-auto max-w-7xl flex items-center justify-center pt-6 sm:pt-10 lg:pt-20 pb-36 lg:pb-44 px-6 sm:px-10 relative">
+            <img src="/images/1.svg" className="absolute bottom-0 -right-40 lg:-right-28 w-80 lg:w-96" />
             <div className="w-full grid grid-cols-1">
                 <div className="flex flex-col items-center justify-center w-full py-10 text-center">
                     <motion.h3 initial={{opacity: 0, y: 100}} animate={{opacity: 1, y: 0}} transition={{type: "spring", duration: 1.2}} className="text-5xl md:text-6xl lg:text-7xl leading-normal md:leading-normal lg:leading-normal font-bold mb-5 max-w-xl">We're always here to help out.</motion.h3>

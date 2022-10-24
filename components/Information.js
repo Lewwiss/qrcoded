@@ -31,9 +31,9 @@ const Information = () => {
         <div className="bg-primary selection:bg-white selection:text-primary relative" ref={ref}>
             <div className="absolute -top-28" id="why" />
             <div className="mx-auto max-w-7xl flex items-center justify-center py-20 px-10 relative">
-                <img src="/images/1.svg" className="absolute -top-96 -right-28 w-96" />
-                <img src="/images/2.svg" className="absolute top-0 -right-28 w-96" />
-                <img src="/images/3.svg" className="absolute -top-96 -left-28 w-96" />
+                <img src="/images/1.svg" className="absolute -top-80 w-80 -right-40 lg:-top-96 lg:-right-28 lg:w-96" />
+                <img src="/images/2.svg" className="absolute top-0 -right-40 w-80 lg:-right-28 lg:w-96" />
+                <img src="/images/3.svg" className="absolute -top-80 lg:-top-96 w-80 -left-40 lg:-left-28 lg:w-96" />
                 <div className="w-full grid grid-cols-1 xl:grid-cols-2 z-10">
                     <div className="w-full flex flex-col items-center justify-center order-2 xl:order-1">
                         <motion.img custom={0} animate={animation} src="/images/sketch-1.svg" className="max-w-2xl xl:w-full xl:px-0 h-64 sm:h-auto" />
