@@ -28,7 +28,7 @@ npm run dev
 * Framer Motion [framer.com/motion](https://www.framer.com/motion/)
 * Intersection Observer [github.com/thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer)
 
-### Help
+### Support
 
 If you have encountered any issues please let us know - [support@qrcoded.app](mailto:support@qrcoded.app)
 
