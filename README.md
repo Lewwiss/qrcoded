@@ -1,57 +1,41 @@
+<img src="./github/showcase.png" />
+
 # QRCoded - Create QR Codes Instantly
 > A QR code generator created with javascript.
-
-<img src="showcase.png" />
+[qrcoded.app](https://qrcoded.app/)
 
 ## Description
 
-[qrcoded.app](https://qrcoded.app/)
+QRCoded is a NextJS app that uses the [qrcode.react](https://www.npmjs.com/package/qrcode.react) package. Allows users to create and download custom QR codes.
 
-An in-depth paragraph about your project and overview of use.
+### Getting Started
 
-## Getting Started
+To create a local version of this app, clone the repository and run the following commands to install all dependencies.
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+npm install
+```
+```
+npm run dev
 ```
 
-## Help
+### Packages Used
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Next [nextjs.org](https://nextjs.org/)
+* React [reactjs.org](https://reactjs.org/)
+* Tailwind [tailwindcss.com](https://tailwindcss.com/)
+* QR Code React [github.com/zpao/qrcode.react](https://github.com/zpao/qrcode.react)
+* Framer Motion [framer.com/motion](https://www.framer.com/motion/)
+* Intersection Observer [github.com/thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer)
 
-## Authors
+### Help
 
-Contributors names and contact info
+If you have encountered any issues please let us know - [support@qrcoded.app](mailto:support@qrcoded.app)
 
-Lewis Winthrop  
-[@Lewwiss](https://github.com/lewwiss)
+### Authors
 
-## License
+[GitHub.com/Lewwiss](https://github.com/lewwiss)
+
+### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
