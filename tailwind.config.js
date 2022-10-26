@@ -13,7 +13,7 @@ module.exports = {
                 'sans': ['Karla']
             },
             minHeight: {
-                "placeholder": "48rem"
+                "placeholder": "51rem"
             },
             width: {
                 "128": "32rem"

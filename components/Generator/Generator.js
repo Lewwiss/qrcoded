@@ -42,7 +42,7 @@ const Generator = () => {
     };
 
     return (
-      <div className="min-h-placeholder">
+      <div className="min-h-placeholder min-h-placeholder">
         { Component() }
       </div>
     );
