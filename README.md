@@ -1,4 +1,4 @@
-<img src="./github/showcase.png" />
+<img src="./.github/showcase.png" />
 
 # QRCoded - Create QR Codes Instantly
 > A QR code generator created with javascript.
@@ -28,13 +28,13 @@ npm run dev
 * Framer Motion [framer.com/motion](https://www.framer.com/motion/)
 * Intersection Observer [github.com/thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer)
 
-### Help
+### Support
 
 If you have encountered any issues please let us know - [support@qrcoded.app](mailto:support@qrcoded.app)
 
 ### Authors
 
-[GitHub.com/Lewwiss](https://github.com/lewwiss)
+[github.com/Lewwiss](https://github.com/lewwiss)
 
 ### License
 
